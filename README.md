@@ -11,13 +11,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <strong>
-  <em>Anime.js</em> is a fast, multipurpose and lightweight JavaScript animation library with a simple, yet powerful API.<br>
-  It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
-  </strong>
-</p>
-
 
 <p align="center">
   <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/animejs?style=flat-square&logo=npm">
