@@ -1,4 +1,8 @@
-# Anime.js
+#	Instituto Tecnologico de Pachuca 
+## Materia: Graficacion 
+## Tema 1.5 Clonacion de un repositorio
+## Autor: Alberto Fabrizio Cortes Garcia
+## Fecha: 20/Febrero/2025
 
 <p align="center">
   <picture align="center">
