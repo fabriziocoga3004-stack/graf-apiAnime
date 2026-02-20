@@ -4,49 +4,6 @@
 ## Autor: Alberto Fabrizio Cortes Garcia
 ## Fecha: 20/Febrero/2025
 
-<p align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/animejs-v4-logo-animation-dark.gif">
-    <img align="center" alt="Anime.js V4 logo animation" src="./assets/images/animejs-v4-logo-animation.gif" width="560">
-  </picture>
-</p>
-
-## Sponsors
-
-Anime.js is 100% free and is only made possible with the help of our sponsors.
-Help the project become sustainable by sponsoring us on <a target="_blank" href="https://github.com/sponsors/juliangarnier">GitHub Sponsors</a>.
-
-### Platinum sponsors
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" href="https://ice.io/?ref=animejs">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/sponsors/ice-open-network-logomark.png?v=200126">
-            <img align="center" src="./assets/sponsors/ice-open-network-logomark-dark.png?v=200126" width="310">
-          </picture>
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://hyperswitch.io/?utm_source=julian&utm_medium=github&utm_campaign=animejs_sponsorship">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/sponsors/juspay-logomark.png?v=200126">
-            <img align="center" src="./assets/sponsors/juspay-logomark-dark.png?v=200126" width="310">
-          </picture>
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/sponsors/juliangarnier">
-          <picture>
-            <img align="center" src="./assets/sponsors/placeholder-large.png?v=200126" width="310">
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ### Silver sponsors
 
