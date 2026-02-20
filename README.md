@@ -3,7 +3,63 @@
 ## Tema 1.5 Clonacion de un repositorio
 ## Autor: Alberto Fabrizio Cortes Garcia
 ## Fecha: 20/Febrero/2025
+<p align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/animejs-v4-logo-animation-dark.gif">
+    <img align="center" alt="Anime.js V4 logo animation" src="./assets/images/animejs-v4-logo-animation.gif" width="560">
+  </picture>
+</p>
 
+<p align="center">
+  <strong>
+  <em>Anime.js</em> is a fast, multipurpose and lightweight JavaScript animation library with a simple, yet powerful API.<br>
+  It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+  </strong>
+</p>
+
+
+<p align="center">
+  <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/animejs?style=flat-square&logo=npm">
+  <img alt="jsDelivr hits (npm)" src="https://img.shields.io/jsdelivr/npm/hm/animejs?style=flat-square&logo=jsdeliver">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/juliangarnier?style=flat-square&logo=github">
+</p>
+
+## Sponsors
+
+Anime.js is 100% free and is only made possible with the help of our sponsors.
+Help the project become sustainable by sponsoring us on <a target="_blank" href="https://github.com/sponsors/juliangarnier">GitHub Sponsors</a>.
+
+### Platinum sponsors
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="https://ice.io/?ref=animejs">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/sponsors/ice-open-network-logomark.png?v=200126">
+            <img align="center" src="./assets/sponsors/ice-open-network-logomark-dark.png?v=200126" width="310">
+          </picture>
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://hyperswitch.io/?utm_source=julian&utm_medium=github&utm_campaign=animejs_sponsorship">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/sponsors/juspay-logomark.png?v=200126">
+            <img align="center" src="./assets/sponsors/juspay-logomark-dark.png?v=200126" width="310">
+          </picture>
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://github.com/sponsors/juliangarnier">
+          <picture>
+            <img align="center" src="./assets/sponsors/placeholder-large.png?v=200126" width="310">
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Silver sponsors
 
